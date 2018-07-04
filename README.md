@@ -6,10 +6,10 @@ Please feel free to share but please don't copy directly!
 
 Report|Fulfillment by City  
 
-<img src="images/Capture.PNG" alt="City Bar Chart" class="inline"/>
+<img src="images/Capture.PNG" alt="City Bar Chart">
 
-For more visualizations from Jeff Kaemmerling on Tableau, click here:
-https://public.tableau.com/profile/jeffrey.kaemmerling#!/
+For more visualizations from Jeff Kaemmerling on Tableau, click <a href="https://public.tableau.com/profile/jeffrey.kaemmerling#!/">here</a>.
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Dashboard|Car Sales in the EU 
@@ -20,8 +20,7 @@ Please click anywhere on the map to dynamically filter content. Also, if the das
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNGNiMzNmYzYtYjhhNi00M2ViLTkwYmMtMDRkZGFiZjRjZjYyIiwidCI6Ijk4ZjJiZDllLWNkMDQtNDBkYi05Y2VlLTJmOTRlNmU2NzZjMSIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-For more visualizations from Jeff Kaemmerling on Tableau, click here: 
-https://public.tableau.com/profile/jeffrey.kaemmerling#!/
+For more visualizations from Jeff Kaemmerling on Tableau, click <a href="https://public.tableau.com/profile/jeffrey.kaemmerling#!/">here</a>.
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Report|Partner & Revenue Tracking
@@ -31,8 +30,7 @@ Please click anywhere on the map to dynamically filter content. Also, if the das
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNzVhZTI5YmEtODgzZS00MjcxLThhYTEtMzAxNWI1Mzk4NDM3IiwidCI6Ijk4ZjJiZDllLWNkMDQtNDBkYi05Y2VlLTJmOTRlNmU2NzZjMSIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
 
-For more visualizations from Jeff Kaemmerling on Tableau, click here:
-https://public.tableau.com/profile/jeffrey.kaemmerling#!/
+For more visualizations from Jeff Kaemmerling on Tableau, click <a href="https://public.tableau.com/profile/jeffrey.kaemmerling#!/">here</a>.
 -----------------------------------------------------------------------------------------------------------------------------------
 
 #Link to Live site: https://hubcatz202.github.io/Power-BI-Dashboards/
