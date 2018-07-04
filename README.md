@@ -2,7 +2,7 @@
 Selected works for interactive dashboards made with Power BI.
 Author: Jeffrey William Kaemmerling, jeffkaemm@gmail.com 
 
-Please share but don't copy!
+Please feel free to share but don't copy!
 
 
 Car Sales in the EU | Dashboard
