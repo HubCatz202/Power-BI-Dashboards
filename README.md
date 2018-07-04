@@ -6,7 +6,8 @@ Please feel free to share but please don't copy directly!
 Report|Fulfillment by City  
 
 
-For more visualizations from Jeff Kaemmerling on Tableau, click here: https://public.tableau.com/profile/jeffrey.kaemmerling#!/
+For more visualizations from Jeff Kaemmerling on Tableau, click here:
+https://public.tableau.com/profile/jeffrey.kaemmerling#!/
 -----------------------------------------------------------------------------------------------------------------------------------
 Dashboard|Car Sales in the EU 
 Please click anywhere on the map to dynamically filter content. Also, if the dashboard is too small, please click the "fullscreen" arrow icon on the bottom right hand corner:
@@ -15,7 +16,8 @@ Please click anywhere on the map to dynamically filter content. Also, if the das
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNGNiMzNmYzYtYjhhNi00M2ViLTkwYmMtMDRkZGFiZjRjZjYyIiwidCI6Ijk4ZjJiZDllLWNkMDQtNDBkYi05Y2VlLTJmOTRlNmU2NzZjMSIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-For more visualizations from Jeff Kaemmerling on Tableau, click here: https://public.tableau.com/profile/jeffrey.kaemmerling#!/
+For more visualizations from Jeff Kaemmerling on Tableau, click here: 
+https://public.tableau.com/profile/jeffrey.kaemmerling#!/
 -----------------------------------------------------------------------------------------------------------------------------------
 Report|Partner & Revenue Tracking
 Please click anywhere on the map to dynamically filter content. Also, if the dashboard is too small, please click the "fullscreen" arrow icon on the bottom right hand corner:
