@@ -5,9 +5,9 @@ Author: <a href="mailto:jeffkaemm@gmail.com">Jeffrey William Kaemmerling</a>
 
 Please feel free to share but please don't copy directly!
 
-Report Snapshot|Fulfillment by City  
+Report|Fulfillment by City  
 
-<img src="https://github.com/HubCatz202/Power-BI-Dashboards/blob/master/Capture.PNG" alt="">
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOGUxOTAxNjEtZGIzMi00MzEyLWFkYTYtM2EwZWJkYTc0YTYzIiwidCI6Ijk4ZjJiZDllLWNkMDQtNDBkYi05Y2VlLTJmOTRlNmU2NzZjMSIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
 
 For more visualizations from Jeff Kaemmerling on Tableau, click <a href="https://public.tableau.com/profile/jeffrey.kaemmerling#!/" target="_blank">here</a>.
 
