@@ -6,7 +6,7 @@ Please feel free to share but please don't copy directly!
 
 Report|Fulfillment by City  
 
-<img src="images/capture.png" alt="hi" class="inline"/>
+<img src="images/Capture.png" alt="City Bar Chart" class="inline"/>
 
 For more visualizations from Jeff Kaemmerling on Tableau, click here:
 https://public.tableau.com/profile/jeffrey.kaemmerling#!/
