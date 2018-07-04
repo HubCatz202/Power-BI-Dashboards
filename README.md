@@ -4,7 +4,7 @@ Author: Jeffrey William Kaemmerling, jeffkaemm@gmail.com
 
 Please feel free to share but please don't copy directly!
 
-Report|Fulfillment by City  
+Report Snapshot|Fulfillment by City  
 
 <img src="https://github.com/HubCatz202/Power-BI-Dashboards/blob/master/Capture.PNG" alt="">
 
