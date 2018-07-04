@@ -1,7 +1,7 @@
-# Power-BI-Dashboards
+# Power-BI Dashboards
 Thank you for visiting my humble site. Below are some selected works for interactive dashboards made with Power BI.
 
-Author: Jeffrey William Kaemmerling, jeffkaemm@gmail.com 
+Author:<a href="mailto:jeffkaemm@gmail.com">Jeffrey William Kaemmerling</a>
 
 Please feel free to share but please don't copy directly!
 
