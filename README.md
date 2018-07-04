@@ -3,13 +3,16 @@ Thank you for visiting my site. Below are some selected works for interactive da
 Author: Jeffrey William Kaemmerling, jeffkaemm@gmail.com 
 
 Please feel free to share but please don't copy directly!
+
 Report|Fulfillment by City  
 
+<img src="images/capture.png" alt="hi" class="inline"/>
 
 For more visualizations from Jeff Kaemmerling on Tableau, click here:
 https://public.tableau.com/profile/jeffrey.kaemmerling#!/
 -----------------------------------------------------------------------------------------------------------------------------------
 Dashboard|Car Sales in the EU 
+
 Please click anywhere on the map to dynamically filter content. Also, if the dashboard is too small, please click the "fullscreen" arrow icon on the bottom right hand corner:
 
 
@@ -20,6 +23,7 @@ For more visualizations from Jeff Kaemmerling on Tableau, click here:
 https://public.tableau.com/profile/jeffrey.kaemmerling#!/
 -----------------------------------------------------------------------------------------------------------------------------------
 Report|Partner & Revenue Tracking
+
 Please click anywhere on the map to dynamically filter content. Also, if the dashboard is too small, please click the "fullscreen" arrow icon on the bottom right hand corner:
 
 
