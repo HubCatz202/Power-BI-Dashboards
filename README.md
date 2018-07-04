@@ -1,5 +1,8 @@
 # Power-BI-Dashboards
-Selected works for interactive dashboards made with Power BI: https://github.com/HubCatz202/Power-BI-Dashboards
+Selected works for interactive dashboards made with Power BI.
+Link to Live site: https://hubcatz202.github.io/Power-BI-Dashboards/
+Author: Jeffrey William Kaemmerling, jeffkaemm@gmail.com 
+Please share but don't copy!
 
 Car Sales in the EU | Dashboard
 
