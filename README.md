@@ -35,4 +35,4 @@ Please click anywhere on the map to dynamically filter content. Also, if the das
 For more visualizations from Jeff Kaemmerling on Tableau, click <a href="https://public.tableau.com/profile/jeffrey.kaemmerling#!/" target="_blank">here</a>.
 
 
-Link to live site: https://hubcatz202.github.io/Power-BI-Dashboards/
+Link to live site: https://hubcatz202.github.io/Selected-Dashboard-Works/
